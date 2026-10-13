@@ -12,10 +12,10 @@
   "native_ad": {
     "enabled": true,
     "ad_unit_id": "ca-app-pub-xxxx/xxxx",
-    "headline": "Promo Makanan Kucing Sehat",
-    "body": "Diskon 30% khusus hari ini!",
-    "call_to_action": "Beli Sekarang",
-    "sponsor": "Pet Shop Official",
-    "target_url": "https://tokopedia.com/toko-kucing"
+    "headline": "Protect Your Pet With Healthy Paws Insurance",
+    "body": "Comprehensive coverage for accidents, illnesses, and preventive exams across US & UK.",
+    "call_to_action": "Get Free Quote",
+    "sponsor": "Healthy Paws Partner",
+    "target_url": "https://example.com"
   }
 }
