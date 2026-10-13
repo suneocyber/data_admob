@@ -1,0 +1,21 @@
+{
+  "ads_enabled": true,
+  "banner_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-xxxx/xxxx"
+  },
+  "interstitial_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-xxxx/xxxx",
+    "interval_clicks": 2
+  },
+  "native_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-xxxx/xxxx",
+    "headline": "Promo Makanan Kucing Sehat",
+    "body": "Diskon 30% khusus hari ini!",
+    "call_to_action": "Beli Sekarang",
+    "sponsor": "Pet Shop Official",
+    "target_url": "https://tokopedia.com/toko-kucing"
+  }
+}
